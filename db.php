@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "jashhh11.mysql.database.azure.com";
+$username = "cse20139root";
+$password = "Sai@11052004";
 $db = "onlineshop";
 
 // Create connection
